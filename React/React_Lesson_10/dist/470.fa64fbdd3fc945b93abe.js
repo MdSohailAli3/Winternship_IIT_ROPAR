@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshopease_bundle_analysis=self.webpackChunkshopease_bundle_analysis||[]).push([[470],{470(e,s,n){n.r(s),n.d(s,{default:()=>d});var a=n(848),l=n(100);function d(){return(0,a.jsxs)("div",{children:[(0,a.jsx)("h2",{children:"Admin Panel"}),(0,a.jsxs)("p",{children:["Last login: ",(0,l.GP)(new Date,"yyyy-MM-dd")]})]})}}}]);

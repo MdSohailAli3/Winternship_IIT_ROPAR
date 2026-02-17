@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+nav a {
+  margin-right: 12px;
+  color: #93c5fd;
+  text-decoration: none;
+}
+
+.container {
+  padding: 24px;
+}
